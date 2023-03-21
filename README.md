@@ -1,2 +1,0 @@
-# UpOrNotChecker
-# UpOrNotChecker
