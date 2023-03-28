@@ -1,0 +1,7 @@
+libraries needed:
+    subprocess
+    json
+    platform
+
+other essentials:
+    All documents must be placed in a file called "week6" or the code wont work.
